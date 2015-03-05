@@ -7,7 +7,7 @@ launch main()
 ```
  Output :
 ```
-   proxy type : HTTP
-   proxy hostname : proxy.toto.net
-   proxy port : 8080
+proxy type : HTTP
+proxy hostname : proxy.toto.net
+proxy port : 8080
 ```
