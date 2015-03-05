@@ -3,9 +3,9 @@ Know the proxy you are behind and have no idea (because of secured network, no a
 
 Usage :
 ```
-launch main()
+SystemProxyTester.main(null);
 ```
- Output :
+ Output (console) :
 ```
 proxy type : HTTP
 proxy hostname : proxy.toto.net
